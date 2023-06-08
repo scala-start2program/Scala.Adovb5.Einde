@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scala.Adovb5.Wpf", "Scala.Adovb5.Wpf\Scala.Adovb5.Wpf.csproj", "{41E9E4EE-7939-4899-8C50-A6E17AB4EEFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scala.Adovb5.Core", "Scala.Adovb5.Core\Scala.Adovb5.Core.csproj", "{F31C320A-804F-4FD2-8DFC-B96DCB2A45D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41E9E4EE-7939-4899-8C50-A6E17AB4EEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E9E4EE-7939-4899-8C50-A6E17AB4EEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E9E4EE-7939-4899-8C50-A6E17AB4EEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E9E4EE-7939-4899-8C50-A6E17AB4EEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F31C320A-804F-4FD2-8DFC-B96DCB2A45D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31C320A-804F-4FD2-8DFC-B96DCB2A45D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31C320A-804F-4FD2-8DFC-B96DCB2A45D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31C320A-804F-4FD2-8DFC-B96DCB2A45D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6AF55D0-5D69-4498-ADE1-846945FFBDDC}
+	EndGlobalSection
+EndGlobal
